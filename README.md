@@ -37,3 +37,5 @@ I then checked the OLS regression results for each and wrote out an interpretati
  Having some promising results, I compiled all of the cutoffs into one complete timeline along with a number of potentially relevant events that could have also affected covid statistics to allow further understanding of the context surrounding our cutoffs.  
    
 ![Full Timeline](https://github.com/NeilAucoin/Regression-Discontinuity-Design-Project---COVID-Cases-in-Quebec/blob/main/assets/Full_Timeline.PNG?raw=true)
+
+Full explanation of results and interpretations can be found in "Regression RDD Project - Neil Aucoin.ipynb" and "Regression Discontinuity Design Project.pptx"
