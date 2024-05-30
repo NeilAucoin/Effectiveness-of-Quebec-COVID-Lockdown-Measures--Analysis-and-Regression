@@ -1,5 +1,5 @@
 # Project Explanation
-Use RDD to estimate the effect of the following events in Quebec:
+Use RDD to estimate the effectiveness of the following COVID-related events in Quebec:
 
 1. The 20/3/2020 lockdown
 2. The reopening of schools on 31/8/2020
