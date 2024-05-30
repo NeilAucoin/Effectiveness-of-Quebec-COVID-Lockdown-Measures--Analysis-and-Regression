@@ -26,10 +26,14 @@ Link to COVID event timelines:
 
 I started off by extracting the relevant data from the Government of Canada Public Health Infobase COVID statistics database, then defined my cutoff dates (Quebec COVID measure dates) in order to create my treatment variables (before and after each cutoff). Afterwards, I created some basic RDD plots for each cutoff.  
   
-![Project Image](https://github.com/NeilAucoin/Regression-Discontinuity-Design-Project---COVID-Cases-in-Quebec/blob/main/assets/Cutoff_1.png?raw=true)
+![Cutoff 1](https://github.com/NeilAucoin/Regression-Discontinuity-Design-Project---COVID-Cases-in-Quebec/blob/main/assets/Cutoff_1.png?raw=true)
+
+![Cutoff 2](https://github.com/NeilAucoin/Regression-Discontinuity-Design-Project---COVID-Cases-in-Quebec/blob/main/assets/Cutoff_2.png?raw=true)
+
+![Cutoff 3](https://github.com/NeilAucoin/Regression-Discontinuity-Design-Project---COVID-Cases-in-Quebec/blob/main/assets/Cutoff_3.png?raw=true)
 
 I then checked the OLS regression results for each and wrote out an interpretation (found in "Regression RDD Project - Neil Aucoin") to have a good idea each cutoff's impact on the data. 
  
  Having some promising results, I compiled all of the cutoffs into one complete timeline along with a number of potentially relevant events that could have also affected covid statistics to allow further understanding of the context surrounding our cutoffs.  
    
-   (show full timeline)
+![Full Timeline](https://github.com/NeilAucoin/Regression-Discontinuity-Design-Project---COVID-Cases-in-Quebec/blob/main/assets/Full_Timeline.PNG?raw=true)
