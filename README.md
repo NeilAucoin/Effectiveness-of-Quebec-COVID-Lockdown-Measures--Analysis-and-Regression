@@ -28,12 +28,12 @@ Regression results and chart analysis would indicate that the initial lockdown c
 ![Cutoff 1](https://github.com/NeilAucoin/Regression-Discontinuity-Design-Project---COVID-Cases-in-Quebec/blob/main/assets/Cutoff_1.png?raw=true)
 
 ## Reopening of Schools
-Charts and OLS regression results indicate that the reopening of schools on 31/8/2020 correlated with a significant increase in covid cases. We can see in the chart below that cases had largely evened out to a relatively low rate and had just begun to increase again when schools were reopened, after which the rate of COVID cases skyrocketed.
+Charts and OLS regression results indicate that the reopening of schools on 31/8/2020 correlated with a significant increase in covid cases. We can see in the chart below that cases had largely evened out to a relatively low rate and had just begun to increase again when schools were reopened, after which the rate of COVID cases skyrocketed. All of this indicates that schools reopening were in part, if not largely responsible for a significant number of COVID cases.
 
 ![Cutoff 2](https://github.com/NeilAucoin/Regression-Discontinuity-Design-Project---COVID-Cases-in-Quebec/blob/main/assets/Cutoff_2.png?raw=true)
 
 ## Holiday Lockdown
-This did not help
+Looking at the short-term effects of the holiday lockdown, it seems to have had little effect. However, 
 
 ![Cutoff 3](https://github.com/NeilAucoin/Regression-Discontinuity-Design-Project---COVID-Cases-in-Quebec/blob/main/assets/Cutoff_3.png?raw=true)
 
