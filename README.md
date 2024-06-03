@@ -14,12 +14,6 @@ Link to COVID event timelines:
 - https://www.who.int/emergencies/diseases/novel-coronavirus-2019/interactive-timeline#!
 
 I started off by extracting the relevant data from the Government of Canada Public Health Infobase COVID statistics database, then defined my cutoff dates (Quebec COVID measure dates) in order to create my treatment variables (before and after each cutoff). Afterwards, I created some basic RDD plots for each cutoff.  
-  
-![Cutoff 1](https://github.com/NeilAucoin/Regression-Discontinuity-Design-Project---COVID-Cases-in-Quebec/blob/main/assets/Cutoff_1.png?raw=true)
-
-![Cutoff 2](https://github.com/NeilAucoin/Regression-Discontinuity-Design-Project---COVID-Cases-in-Quebec/blob/main/assets/Cutoff_2.png?raw=true)
-
-![Cutoff 3](https://github.com/NeilAucoin/Regression-Discontinuity-Design-Project---COVID-Cases-in-Quebec/blob/main/assets/Cutoff_3.png?raw=true)
 
 I then checked the OLS regression results for each and wrote out an interpretation (found in "Regression RDD Project - Neil Aucoin") to have a good idea each cutoff's impact on the data. 
  
@@ -27,4 +21,21 @@ I then checked the OLS regression results for each and wrote out an interpretati
    
 ![Full Timeline](https://github.com/NeilAucoin/Regression-Discontinuity-Design-Project---COVID-Cases-in-Quebec/blob/main/assets/Full_Timeline.PNG?raw=true)
 
+# Results
+## Initial Lockdown
+Regression results and chart analysis would indicate that the initial lockdown correlated with a significant increase in COVID cases, however we can infer that this is a biased result as this took place during the first days of the pandemic where COVID cases were bound to increase significantly regardless of measures taken. As such, results for this measure are inconclusive.
+
+![Cutoff 1](https://github.com/NeilAucoin/Regression-Discontinuity-Design-Project---COVID-Cases-in-Quebec/blob/main/assets/Cutoff_1.png?raw=true)
+
+## Reopening of Schools
+Charts and OLS regression results indicate that the reopening of schools on 31/8/2020 correlated with a significant increase in covid cases. 
+
+![Cutoff 2](https://github.com/NeilAucoin/Regression-Discontinuity-Design-Project---COVID-Cases-in-Quebec/blob/main/assets/Cutoff_2.png?raw=true)
+
+## Holiday Lockdown
+This did not help
+
+![Cutoff 3](https://github.com/NeilAucoin/Regression-Discontinuity-Design-Project---COVID-Cases-in-Quebec/blob/main/assets/Cutoff_3.png?raw=true)
+
+# ---
 Full explanation of results and interpretations can be found in "Regression RDD Project - Neil Aucoin.ipynb" and "Regression Discontinuity Design Project.pptx"
