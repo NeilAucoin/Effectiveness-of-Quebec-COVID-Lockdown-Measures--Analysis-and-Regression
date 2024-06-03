@@ -33,7 +33,7 @@ Charts and OLS regression results indicate that the reopening of schools on 31/8
 ![Cutoff 2](https://github.com/NeilAucoin/Regression-Discontinuity-Design-Project---COVID-Cases-in-Quebec/blob/main/assets/Cutoff_2.png?raw=true)
 
 ## Holiday Lockdown
-Looking at the short-term effects of the holiday lockdown, it seems to have had little effect. However, 
+Looking at the short-term effects of the holiday lockdown, it seems to have had little immediate effect; however, we can infer that this rise in COVID cases was inevtiable as many gatherings took place during the holiday season regardless of regulations against them. Looking further down the timeline, COVID cases dropped significantly, which may be a direct result of the new lockdown regulations (as well as the end of the holiday season). While OLS regression results are inconclusive for this cutoff, we can infer that the lockdown helped curb COVID cases to an extent, as many individuals likely refrained from having large holiday gatherings due to these restrictions and COVID cases continued to decrease significantly after the holidays (while the new lockdown was still in effect).
 
 ![Cutoff 3](https://github.com/NeilAucoin/Regression-Discontinuity-Design-Project---COVID-Cases-in-Quebec/blob/main/assets/Cutoff_3.png?raw=true)
 
