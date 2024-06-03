@@ -38,4 +38,4 @@ Looking at the short-term effects of the holiday lockdown, it seems to have had 
 ![Cutoff 3](https://github.com/NeilAucoin/Regression-Discontinuity-Design-Project---COVID-Cases-in-Quebec/blob/main/assets/Cutoff_3.png?raw=true)
 
 # ---
-Full explanation of results and interpretations can be found in "Regression RDD Project - Neil Aucoin.ipynb" and "Regression Discontinuity Design Project.pptx"
+Full regression reuslts and interpretations can be found in "Regression RDD Project - Neil Aucoin.ipynb" and "Regression Discontinuity Design Project.pptx"
